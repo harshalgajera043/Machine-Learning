@@ -6,7 +6,7 @@ the realm of data analytics, yet sharing a cohesive strategy for insightful solu
 Immerse yourself in the evolving landscape of machine learning through our recent projects on Fraud Detection and Target Marketing. This repository demonstrates 
 the implementation of Decision Tree and Random Forest classifiers, utilizing hyperparameter tuning techniques to enhance model precision and effectiveness.
 
-# Objective:
+# Objective
 This project is designed to achieve the following objectives:
 
 1. Hyperparameter Tuning: Fine-tune Decision Tree and Random Forest classifiers by adjusting a minimum of three hyperparameters for each model.
@@ -46,13 +46,13 @@ The outcomes of our analysis unveil substantial insights and advancements in bot
 hyperparameter tuning exhibit notable enhancements in accuracy and effectiveness. Similarly, the target marketing project showcases optimized classifiers, 
 contributing to more precise and impactful marketing strategies.
 
-### Fraud Detection Results
+### Fraud Detection Results:
 
 1. Hyperparameter tuning significantly improves the performance of classifiers.
 2. Enhanced accuracy, precision, recall, and F1-score contribute to a more robust fraud detection system.
 3. The refined model, detailed in the documentation, demonstrates improved capabilities in identifying fraudulent activities.
 
-### Target Marketing Results
+### Target Marketing Results:
 
 1. The exploration of hyperparameter tuning in classifiers yields models with improved predictive accuracy.
 2. Enhanced classifiers contribute to more effective target marketing strategies.
