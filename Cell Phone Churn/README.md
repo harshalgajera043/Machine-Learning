@@ -40,6 +40,11 @@ The primary objectives of this project are as follows:
 16. SMOTE
 17. matplotlib.pyplot
 
+# Dataset
+The dataset for the Cell Phone Churn project is conveniently included in the same repository, available as a compressed zip file within the project folder. 
+Explore the dataset by extracting the contents of the provided zip file for a comprehensive understanding of the project's data.
+
+
 # Result
 The Cell Phone Churn project yielded refined predictive models through hyperparameter tuning of the Random Forest classifier. Improved performance metrics 
 were observed, including accuracy, precision, recall, and F1 score. The top 5 influential features were identified, and ensemble predictions using one-layer 
