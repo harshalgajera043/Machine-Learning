@@ -41,8 +41,8 @@ The primary objectives of this project are as follows:
 17. matplotlib.pyplot
 
 # Dataset
-The dataset for the Cell Phone Churn project is conveniently included in the same repository, available as a compressed zip file within the project folder. 
-Explore the dataset by extracting the contents of the provided zip file for a comprehensive understanding of the project's data.
+The dataset for the Cell Phone Churn project is conveniently included in the same repository, available as a .csv file within the project folder. 
+Explore the dataset file for a comprehensive understanding of the project's data.
 
 
 # Result
